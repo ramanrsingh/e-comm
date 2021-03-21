@@ -25,6 +25,36 @@
         padding-top: 100px;
         
     }
+    img.slider-img{
+        height: 400px !important;
+       
+    }
+    .custom-product{
+        height: 600px ;
+        margin-bottom:50px;
+    }
+    .slider-text{
+        background-color: #00800082 !important;
+    }
+    .trending-img{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 15%;
+        
+    }
+
+    .trending-products{
+        margin: 20px;
+    }
+    .detail-img{
+        height: 200px;
+    }
+
+    .search-box{
+        width:500px !important;
+    }
 
 </style>
 
